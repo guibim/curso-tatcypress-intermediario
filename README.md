@@ -2,7 +2,7 @@
 ## Curso da TALKING ABOUT TESTING sobre Cypress nível intermediário 
 https://talkingabouttesting.com/  <br />
 
-##Descrição pessoal:
+## Descrição pessoal:
 Realizei o curso em busca de melhorar minhas práticas com testes envolvendo API e otimização de teste, estou satisfeito com o resultado do curso e com os aprendizados, vi e aprendi sobre Docker e como otimizar testes de maneira simples e direta, utilizando comandos como cy.session e linhas para ocultar dados sensíveis como tokens e senhas que não podem vazar em um teste.
 
 ## Ferramentas utilizadas
